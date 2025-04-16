@@ -2,9 +2,10 @@
 
 ---
 ## Federico Luis Vicente
-### 29664569
+### dni 29664569
 
 ---
+
 Este proyecto corresponde a la **Actividad 2 de la materia Programación de Vanguardia** y consiste en el desarrollo de una aplicación Java basada en Maven que utiliza las librerías **Apache Commons CLI** y **Log4j 2**. La aplicación fue desarrollada en **IntelliJ IDEA** y está configurada para compilarse y ejecutarse utilizando el sistema de construcción Maven según las indicaciones.
 
 ---
